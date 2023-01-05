@@ -1,5 +1,5 @@
 # Chat PHP
-#### Chat PHP is a browser-based chat application written in PHP.<br>
+#### Chat PHP is a browser-based chat application written in PHP that was created some time ago.<br>
 #### It uses a MySQL database named k0aziu_chat to store messages and user information.
 
 ## Features:
