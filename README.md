@@ -11,6 +11,5 @@ captcha (incomplete)<br>
 
 ## To run the project, open a console and execute the following command:
 
-`cd koziuu/chat_php`<br>
 `PHP -S localhost:8080`<br>
 #### After starting the application will be available at <a href="http://localhost:8080">localhost:8080</a>.
