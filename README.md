@@ -2,11 +2,11 @@
 Chat PHP is a browser-based chat application written in PHP, which was created some time ago. It uses a MySQL database named k0aziu_chat to store messages and user information.
 
 ## Features:
--Login (completed)
--Registration (incomplete)
--Logout (completed)
--Send, save, delete messages (completed)
--Emoji (completed)
+-Login (completed) <br>
+-Registration (incomplete) <br>
+-Logout (completed) <br>
+-Send, save, delete messages (completed) <br>
+-Emoji (completed) <br>
 ## How to run the project:
 To run the project, open a console and execute the following command:
 
